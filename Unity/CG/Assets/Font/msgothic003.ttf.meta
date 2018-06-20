@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 897d496f34d2c484eb42bea906a73b3f
+timeCreated: 1518980385
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MS PGothic
+  fontNames:
+  - MS PGothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

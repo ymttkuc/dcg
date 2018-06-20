@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3d0680c1c22775b45be5395a86afc03a
+timeCreated: 1518980385
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MS UI Gothic
+  fontNames:
+  - MS UI Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

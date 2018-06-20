@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e90e90eb613514147a6ae86c61f3d691
+timeCreated: 1517550712
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HGSGyoshotai
+  fontNames:
+  - HGSGyoshotai
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
